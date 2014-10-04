@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=WUERFEL()
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WUERFEL\r\n
-comment1.params=
-comment1.target=int\ wuerfeln()
-comment1.text=\r\n\ EIn\ etwas\ seltsames\ Wuerfeln\r\n\ \r\n\ @return\ \ \ \ \ Wuerfelergebnis\ zwischen\ 1\ und\ 6\r\n
-numComments=2
