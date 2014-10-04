@@ -19,6 +19,11 @@ public class RUNDE
         // initialise instance variables
         x = 0;
     }
+    
+    public RUNDE(int in)
+    {
+        x = in;
+    }
 
     /**
      * An example of a method - replace this comment with your own
