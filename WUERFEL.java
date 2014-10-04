@@ -17,6 +17,7 @@ public class WUERFEL
     {
         // initialise instance variables
         x = 0;
+        //Hallo das ist ein kommentar
     }
 
     /**
