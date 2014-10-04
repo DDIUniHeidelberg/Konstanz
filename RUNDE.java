@@ -9,7 +9,11 @@
 public class RUNDE
 {
     // instance variables - replace the example below with your own
-    private int x;
+    private WUERFEL erster;
+    private WUERFEL zweiter;
+    private WUERFEL dritter;
+    private WUERFEL vierter;
+    private WUERFEL fuenfter;
 
     /**
      * Constructor for objects of class RUNDE
@@ -17,7 +21,12 @@ public class RUNDE
     public RUNDE()
     {
         // initialise instance variables
-        x = 0;
+        erster = new WUERFEL();
+        zweiter = new WUERFEL();
+        dritter = new WUERFEL();
+        vierter = new WUERFEL();
+        fuenfter = new WUERFEL();
+        
     }
 
     /**
