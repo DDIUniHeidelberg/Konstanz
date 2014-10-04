@@ -1,0 +1,11 @@
+diff a/WUERFEL.java b/WUERFEL.java	(rejected hunks)
+@@ -5,6 +5,9 @@
+  * @author (your name) 
+  * @version (a version number or a date)
+  */
++
++import java.lang.Math.*;
++
+ public class WUERFEL
+ {
+     // instance variables - replace the example below with your own

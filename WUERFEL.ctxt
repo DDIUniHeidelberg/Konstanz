@@ -4,5 +4,9 @@ comment0.target=WUERFEL()
 comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WUERFEL\r\n
 comment1.params=
 comment1.target=int\ wuerfeln()
+<<<<<<< HEAD
+comment1.text=\r\n\ EIn\ etwas\ seltsames\ Wuerfeln\r\n\ \r\n\ @return\ \ \ \ \ Wuerfelergebnis\ zwischen\ 1\ und\ 6\r\n
+=======
 comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+>>>>>>> 80e0a402d64c8c3b86b0035ae8e90d3e943422f9
 numComments=2
