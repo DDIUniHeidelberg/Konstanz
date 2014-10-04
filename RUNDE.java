@@ -1,6 +1,7 @@
 
 /**
- * Write a description of class RUNDE here.
+ * Implementation of 3 rounds of throw five  dices
+ * 
  * 
  * @author (your name) 
  * @version (a version number or a date)
