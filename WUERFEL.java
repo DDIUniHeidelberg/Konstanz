@@ -5,9 +5,6 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-
-import java.lang.Math.*;
-
 public class WUERFEL
 {
     // instance variables - replace the example below with your own
@@ -23,15 +20,14 @@ public class WUERFEL
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * EIn etwas seltsames Wuerfeln
      * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * @return     Wuerfelergebnis zwischen 1 und 6
      */
     public int wuerfeln()
     {
-        // put your code here
-        int value = (int)Math.round(10*Math.random());
-        return value;
+        x = x+1;
+        if ((x % 6)==0) return 6;
+        else return x % 6;
     }
 }
