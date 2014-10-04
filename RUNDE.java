@@ -28,6 +28,11 @@ public class RUNDE
         fuenfter = new WUERFEL();
         
     }
+    
+    public RUNDE(int in)
+    {
+        x = in;
+    }
 
     /**
      * An example of a method - replace this comment with your own
