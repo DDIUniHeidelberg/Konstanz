@@ -14,6 +14,8 @@ public class RUNDE
     private WUERFEL dritter;
     private WUERFEL vierter;
     private WUERFEL fuenfter;
+    
+    int x;
 
     /**
      * Constructor for objects of class RUNDE

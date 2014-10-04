@@ -5,6 +5,9 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
+
+import java.lang.Math.*;
+
 public class WUERFEL
 {
     // instance variables - replace the example below with your own
@@ -28,6 +31,7 @@ public class WUERFEL
     public int wuerfeln()
     {
         // put your code here
-        return 1;
+        int value = (int)Math.round(10*Math.random());
+        return value;
     }
 }
